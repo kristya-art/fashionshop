@@ -11,8 +11,8 @@
 	<groupId>org.fashionshop</groupId>
 	<artifactId>fashionshop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Fashionshop</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Fashions</name>
+	<description>Web Application - Fashion shop - to sale fashion products</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
